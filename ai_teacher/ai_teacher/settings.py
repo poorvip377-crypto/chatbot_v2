@@ -20,20 +20,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/6.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-<<<<<<< HEAD
 SECRET_KEY = 'django-insecure-pp3&5jn#u5!&x@27kup@3q1@7aup#cr!^r6!tl%ndn%008pz&0'
-=======
-SECRET_KEY = 'django-insecure-3a%516$93t1s8b^j#4&)$+z@+cfs)+r^8*e9t-%!$@_-5rbyx3'
->>>>>>> 1599528dc1b563fe6c53fb9c4039f8961d63a1a4
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-<<<<<<< HEAD
 ALLOWED_HOSTS = []
-=======
-ALLOWED_HOSTS = ["chatbot-v2-1-k8y8.onrender.com"]
->>>>>>> 1599528dc1b563fe6c53fb9c4039f8961d63a1a4
 
 
 # Application definition
